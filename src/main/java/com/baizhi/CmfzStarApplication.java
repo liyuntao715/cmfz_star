@@ -17,6 +17,14 @@ public class CmfzStarApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(CmfzStarApplication.class, args);
+        System.out.println("___________________________________");
+         System.out.println("___________________________________");
+         System.out.println("___________________________________");
+         System.out.println("___________________________________");
+         System.out.println("___________________________________");
+         System.out.println("___________________________________");
+         System.out.println("___________________________________");
+         System.out.println("___________________________________");
     }
 
     @Bean
